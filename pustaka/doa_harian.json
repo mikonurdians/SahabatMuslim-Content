@@ -121,16 +121,16 @@
     "emotionTag": "syukur"
   },
   {
-    "id": 12,
-    "title": "Doa Sebelum Makan",
-    "category": "makan",
-    "arabic": "بِسْمِ اللَّهِ (Jika lupa: بِسْمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ)",
-    "latin": "Bismillah. (Lupa: Bismillahi fii awwalihi wa aakhirihi).",
-    "translation": "Dengan nama Allah. (Lupa: Dengan nama Allah di awal dan di akhirnya).",
-    "virtue": "Mencegah setan ikut serta menyantap berkah dari makanan yang dihidangkan.",
-    "reference": "HR. Abu Dawud No. 3767 & Tirmidzi No. 1858 (Shahih)",
-    "emotionTag": ""
-  },
+  "id": 12,
+  "title": "Doa Jika Lupa Membaca Doa Sebelum Makan",
+  "category": "makan",
+  "arabic": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+  "latin": "Bismillaahi awwalahu wa aakhirahu.",
+  "translation": "Dengan nama Allah pada awal dan akhirnya.",
+  "virtue": "Mencegah setan ikut serta menyantap hidangan dan mengambil keberkahan dari makanan.",
+  "reference": "HR. Abu Dawud No. 3767 & Tirmidzi No. 1858 (Shahih)",
+  "emotionTag": ""
+},
   {
     "id": 13,
     "title": "Doa Setelah Makan",
