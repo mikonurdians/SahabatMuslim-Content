@@ -625,5 +625,16 @@
     "virtue": "Doa Al-Quran untuk membangun keharmonisan rumah tangga, ketaatan anak cucu, serta keberkahan kepemimpinan.",
     "reference": "QS. Al-Furqan: 74",
     "emotionTag": "syukur"
-  }
+  },
+  {
+    "id": 58,
+    "title": "Doa Sebelum Makan (Utama)",
+    "category": "makan",
+    "arabic": "بِسْمِ اللَّهِ",
+    "latin": "Bismillah.",
+    "translation": "Dengan menyebut nama Allah.",
+    "virtue": "Menjalankan perintah Rasulullah SAW, mendatangkan keberkahan pada makanan, dan menutup celah bagi setan untuk ikut makan.",
+    "reference": "HR. Bukhari No. 5376 & Muslim No. 2022 (Shahih)",
+    "emotionTag": "syukur"
+  },
 ]
